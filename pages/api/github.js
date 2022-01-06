@@ -20,7 +20,7 @@ const inviteMember = async (token, org, email) => {
   return result;
 };
 
-export default async function handler(req, res) {
+export default async function invite(req, res) {
   const token = req.query.token;
   const org = req.query.org;
   const email = req.query.email;
