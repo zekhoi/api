@@ -1,5 +1,5 @@
 export default {
-  name: "Khoironi Kurnia Syah",
+  name: "Public API",
   image: "/images/profile/profile.png",
   role: "Full-Stack Developer",
   country: "Indonesia",
